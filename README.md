@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammedbilals/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammedbilals/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammedbilals/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammedbilals/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/19369487/muhammed-bilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/19369487/muhammed-bilal" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/bilaal.ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/bilaal.ms" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/muhammedbilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/muhammedbilal" height="30" width="40" /></a>
