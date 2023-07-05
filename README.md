@@ -12,7 +12,7 @@
 - 📫 How to reach me **bilalmuhammed363@gmail.com**
 
 -  ⚡ Fun fact **I am curious in literally everything!**
-
+![](https://komarev.com/ghpvc/?username=muhammedbilals)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammedbilals/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammedbilals/" height="30" width="40" /></a>
